@@ -1,5 +1,5 @@
 # origin
-(By the way add "Pat" and "Nah into a new folder called "classification" inside a folder called "data")
+(By the way add "Pat" and "Nah" into a new folder called "classification" inside a folder called "data")
  # Facial Recognition AI Program
 
  This is a facial recognition AI network I put together. Its main goal, of course, is to recognize if an image, or face, that it sees is you or not. Of course, you can add more categories for more people, but keeping it down to just one person or not them as the only categories is a bit more accurate and less accessible to others if turned into a security program. 
